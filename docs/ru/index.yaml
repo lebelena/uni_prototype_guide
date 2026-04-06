@@ -1,0 +1,7 @@
+title: MiniApp
+description: Пользовательская документация MiniApp для исполнителей
+links:
+  - title: Работа в MiniApp
+    href: start_page.md
+    description: Познакомьтесь с интерфейсом и функционалом приложения
+       
