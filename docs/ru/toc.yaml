@@ -1,5 +1,7 @@
 title: Прототип Unilever
 href: index.yaml
 items: 
+  - name: Интерфейс Figma
+    href: presettings.md
   - name: Работа в прототипе
     href: start_page.md
